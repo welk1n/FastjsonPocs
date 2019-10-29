@@ -1,6 +1,6 @@
 # FastjsonPocs
 
-一些结合第三方组件的Fastjson POC，在1.2.48以后版本中陆续被添加至黑名单。
+一些结合第三方组件的Fastjson POC，在1.2.48以后版本中陆续被添加至黑名单，欢迎补充。
 
 ### com.zaxxer.hikari.HikariConfig:
 
