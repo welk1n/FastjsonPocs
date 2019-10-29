@@ -40,6 +40,7 @@
 ```
 
 >   {"@type":"org.apache.openjpa.ee.JNDIManagedRuntime","transactionManagerName":"JNDI_SERVER","rollbackOnly":null}
+
 >   {"@type":"org.apache.openjpa.ee.RegistryManagedRuntime","registryName":"JNDI_SERVER","rollbackOnly":null}
 
 ### org.apache.commons.configuration.JNDIConfiguration
